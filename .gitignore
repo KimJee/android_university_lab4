@@ -102,5 +102,5 @@ lint/outputs/
 lint/tmp/
 # lint/reports/
 
-/app/src/main/java/com/codepath/recyclerviewlab/networking
+/app/src/main/java/com/codepath/recyclerviewlab/networking/*
 
